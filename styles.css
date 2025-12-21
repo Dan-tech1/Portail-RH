@@ -1,4 +1,4 @@
-/* Styles personnalisés pour le Portail RH - Version Professionnelle */
+ 
 :root {
     --primary-color: #4361ee;
     --primary-dark: #3a56d4;
@@ -530,4 +530,17 @@ body {
 .status-pending {
     background-color: var(--warning-color);
     box-shadow: 0 0 0 2px rgba(255, 209, 102, 0.2);
+}
+footer {
+    margin-top: 40px;
+    background-color: var(--dark-color);
+    color: white;
+}
+footer div {
+    padding: 20px 30px;
+    text-align: center;
+}
+footer small {
+    font-size: 0.9rem;
+    color: #cccccc;
 }
