@@ -1,5 +1,12 @@
 # Portail RH - Smart Backoffice Dashboard
 
+ ---------------------------------------------------
+ Groupe :
+ 
+- OKOTSEBATSA BOUYA DAVY
+- TCHIPANDI SIXT
+ ---------------------------------------------------
+
 ## Description du projet
 Ce projet est une application web de type "Backoffice Dashboard" pour la gestion des ressources humaines, développée dans le cadre du module Développement Web. L'application permet de gérer les employés et les départements d'une entreprise, visualiser des statistiques et intégrer des données externes via une API.
 

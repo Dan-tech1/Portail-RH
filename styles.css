@@ -31,7 +31,7 @@ body {
     font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
 }
 
-/* ===== SIDEBAR PROFESSIONNEL ===== */
+/* ===== SIDEBAR ===== */
 #sidebar {
     min-height: 100vh;
     background: linear-gradient(180deg, var(--primary-color) 0%, var(--secondary-color) 100%);
@@ -141,7 +141,7 @@ body {
     color: var(--primary-color);
 }
 
-/* ===== CARTES PROFESSIONNELLES ===== */
+/* ===== CARTES  ===== */
 .card {
     border: none;
     border-radius: var(--border-radius);
@@ -231,7 +231,7 @@ body {
     background-color: rgba(239, 71, 111, 0.1);
 }
 
-/* ===== TABLEAUX PROFESSIONNELS ===== */
+/* ===== TABLEAUX  ===== */
 .table {
     background-color: white;
     border-radius: var(--border-radius);
@@ -284,7 +284,7 @@ body {
     background-color: var(--danger-color) !important;
 }
 
-/* ===== BOUTONS PROFESSIONNELS ===== */
+/* ===== BOUTONS ===== */
 .btn {
     padding: 10px 20px;
     border-radius: var(--border-radius);
