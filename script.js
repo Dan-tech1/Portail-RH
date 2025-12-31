@@ -5,7 +5,6 @@ const AppState = {
   departments: [],
   charts: {},
 
-  // Données de test initiales
   initialEmployees: [
     {
       id: 1,
@@ -153,8 +152,6 @@ function initNavigation() {
       // Mettre à jour l'état actif
       navLinks.forEach((l) => l.classList.remove("active"));
       this.classList.add("active");
-
-      // Afficher la section
       showSection(sectionId);
 
       // Fermer la sidebar sur mobile
