@@ -331,7 +331,6 @@ function calculateTotalSalary() {
 
 // Afficher une notification toast
 function showToast(message, type = "info") {
-  // Créer un élément toast
   const toastContainer = document.createElement("div");
   toastContainer.className =
     "toast-container position-fixed bottom-0 end-0 p-3";
