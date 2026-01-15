@@ -4,7 +4,7 @@
  Groupe :
  
 - OKOTSEBATSA BOUYA DAVY
-- TCHIPANDI SIXT
+- TCHIPANDI DESIRE SHARON SIXT
  ---------------------------------------------------
 
 ## Description du projet
